@@ -1,0 +1,9 @@
+C:\Users\duyhi\Desktop\CSHARP_BMHTT\Chuong1\Bai2\Bai2\obj\Debug\Bai2.csprojAssemblyReference.cache
+C:\Users\duyhi\Desktop\CSHARP_BMHTT\Chuong1\Bai2\Bai2\obj\Debug\Bai2.frmBai2.resources
+C:\Users\duyhi\Desktop\CSHARP_BMHTT\Chuong1\Bai2\Bai2\obj\Debug\Bai2.Properties.Resources.resources
+C:\Users\duyhi\Desktop\CSHARP_BMHTT\Chuong1\Bai2\Bai2\obj\Debug\Bai2.csproj.GenerateResource.cache
+C:\Users\duyhi\Desktop\CSHARP_BMHTT\Chuong1\Bai2\Bai2\bin\Debug\Bai2.exe.config
+C:\Users\duyhi\Desktop\CSHARP_BMHTT\Chuong1\Bai2\Bai2\bin\Debug\Bai2.exe
+C:\Users\duyhi\Desktop\CSHARP_BMHTT\Chuong1\Bai2\Bai2\bin\Debug\Bai2.pdb
+C:\Users\duyhi\Desktop\CSHARP_BMHTT\Chuong1\Bai2\Bai2\obj\Debug\Bai2.exe
+C:\Users\duyhi\Desktop\CSHARP_BMHTT\Chuong1\Bai2\Bai2\obj\Debug\Bai2.pdb

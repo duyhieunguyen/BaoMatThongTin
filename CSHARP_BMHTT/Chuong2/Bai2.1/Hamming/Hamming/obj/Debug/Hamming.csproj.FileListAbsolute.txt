@@ -1,0 +1,9 @@
+C:\Users\duyhi\Desktop\CSHARP_BMHTT\Chuong2\Bai2.1\Hamming\Hamming\obj\Debug\Hamming.csprojAssemblyReference.cache
+C:\Users\duyhi\Desktop\CSHARP_BMHTT\Chuong2\Bai2.1\Hamming\Hamming\obj\Debug\Hamming.frmHamming.resources
+C:\Users\duyhi\Desktop\CSHARP_BMHTT\Chuong2\Bai2.1\Hamming\Hamming\obj\Debug\Hamming.Properties.Resources.resources
+C:\Users\duyhi\Desktop\CSHARP_BMHTT\Chuong2\Bai2.1\Hamming\Hamming\obj\Debug\Hamming.csproj.GenerateResource.cache
+C:\Users\duyhi\Desktop\CSHARP_BMHTT\Chuong2\Bai2.1\Hamming\Hamming\bin\Debug\Hamming.exe.config
+C:\Users\duyhi\Desktop\CSHARP_BMHTT\Chuong2\Bai2.1\Hamming\Hamming\bin\Debug\Hamming.exe
+C:\Users\duyhi\Desktop\CSHARP_BMHTT\Chuong2\Bai2.1\Hamming\Hamming\bin\Debug\Hamming.pdb
+C:\Users\duyhi\Desktop\CSHARP_BMHTT\Chuong2\Bai2.1\Hamming\Hamming\obj\Debug\Hamming.exe
+C:\Users\duyhi\Desktop\CSHARP_BMHTT\Chuong2\Bai2.1\Hamming\Hamming\obj\Debug\Hamming.pdb
