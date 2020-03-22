@@ -1,10 +1,20 @@
-C:\Users\duyhi\Desktop\CSHARP_BMHTT\Chuong2\Bai2.2\MaHoaDonGian\MaHoaDonGian\bin\Debug\MaHoaDonGian.exe.config
-C:\Users\duyhi\Desktop\CSHARP_BMHTT\Chuong2\Bai2.2\MaHoaDonGian\MaHoaDonGian\bin\Debug\MaHoaDonGian.exe
-C:\Users\duyhi\Desktop\CSHARP_BMHTT\Chuong2\Bai2.2\MaHoaDonGian\MaHoaDonGian\bin\Debug\MaHoaDonGian.pdb
-C:\Users\duyhi\Desktop\CSHARP_BMHTT\Chuong2\Bai2.2\MaHoaDonGian\MaHoaDonGian\obj\Debug\MaHoaDonGian.csprojAssemblyReference.cache
-C:\Users\duyhi\Desktop\CSHARP_BMHTT\Chuong2\Bai2.2\MaHoaDonGian\MaHoaDonGian\obj\Debug\MaHoaDonGian.frmMaHoaGiaiMa.resources
-C:\Users\duyhi\Desktop\CSHARP_BMHTT\Chuong2\Bai2.2\MaHoaDonGian\MaHoaDonGian\obj\Debug\MaHoaDonGian.frmStartUp.resources
-C:\Users\duyhi\Desktop\CSHARP_BMHTT\Chuong2\Bai2.2\MaHoaDonGian\MaHoaDonGian\obj\Debug\MaHoaDonGian.Properties.Resources.resources
-C:\Users\duyhi\Desktop\CSHARP_BMHTT\Chuong2\Bai2.2\MaHoaDonGian\MaHoaDonGian\obj\Debug\MaHoaDonGian.csproj.GenerateResource.cache
-C:\Users\duyhi\Desktop\CSHARP_BMHTT\Chuong2\Bai2.2\MaHoaDonGian\MaHoaDonGian\obj\Debug\MaHoaDonGian.exe
-C:\Users\duyhi\Desktop\CSHARP_BMHTT\Chuong2\Bai2.2\MaHoaDonGian\MaHoaDonGian\obj\Debug\MaHoaDonGian.pdb
+D:\Documents\GITHUB\WindowsFormApp\Tuần 3\MaHoaDonGian\MaHoaDonGian\bin\Debug\MaHoaDonGian.exe.config
+D:\Documents\GITHUB\WindowsFormApp\Tuần 3\MaHoaDonGian\MaHoaDonGian\bin\Debug\MaHoaDonGian.exe
+D:\Documents\GITHUB\WindowsFormApp\Tuần 3\MaHoaDonGian\MaHoaDonGian\bin\Debug\MaHoaDonGian.pdb
+D:\Documents\GITHUB\WindowsFormApp\Tuần 3\MaHoaDonGian\MaHoaDonGian\obj\Debug\MaHoaDonGian.csprojAssemblyReference.cache
+D:\Documents\GITHUB\WindowsFormApp\Tuần 3\MaHoaDonGian\MaHoaDonGian\obj\Debug\MaHoaDonGian.Properties.Resources.resources
+D:\Documents\GITHUB\WindowsFormApp\Tuần 3\MaHoaDonGian\MaHoaDonGian\obj\Debug\MaHoaDonGian.csproj.GenerateResource.cache
+D:\Documents\GITHUB\WindowsFormApp\Tuần 3\MaHoaDonGian\MaHoaDonGian\obj\Debug\MaHoaDonGian.exe
+D:\Documents\GITHUB\WindowsFormApp\Tuần 3\MaHoaDonGian\MaHoaDonGian\obj\Debug\MaHoaDonGian.pdb
+D:\Documents\GITHUB\WindowsFormApp\Tuần 3\MaHoaDonGian\MaHoaDonGian\obj\Debug\MaHoaDonGian.frmMaHoaGiaiMa.resources
+D:\Documents\GITHUB\WindowsFormApp\Tuần 3\MaHoaDonGian\MaHoaDonGian\obj\Debug\MaHoaDonGian.StartUp.resources
+C:\Users\duyhi\Desktop\Tuần 3\MaHoaDonGian\MaHoaDonGian\bin\Debug\MaHoaDonGian.exe.config
+C:\Users\duyhi\Desktop\Tuần 3\MaHoaDonGian\MaHoaDonGian\bin\Debug\MaHoaDonGian.exe
+C:\Users\duyhi\Desktop\Tuần 3\MaHoaDonGian\MaHoaDonGian\bin\Debug\MaHoaDonGian.pdb
+C:\Users\duyhi\Desktop\Tuần 3\MaHoaDonGian\MaHoaDonGian\obj\Debug\MaHoaDonGian.csprojAssemblyReference.cache
+C:\Users\duyhi\Desktop\Tuần 3\MaHoaDonGian\MaHoaDonGian\obj\Debug\MaHoaDonGian.frmMaHoaGiaiMa.resources
+C:\Users\duyhi\Desktop\Tuần 3\MaHoaDonGian\MaHoaDonGian\obj\Debug\MaHoaDonGian.Properties.Resources.resources
+C:\Users\duyhi\Desktop\Tuần 3\MaHoaDonGian\MaHoaDonGian\obj\Debug\MaHoaDonGian.StartUp.resources
+C:\Users\duyhi\Desktop\Tuần 3\MaHoaDonGian\MaHoaDonGian\obj\Debug\MaHoaDonGian.csproj.GenerateResource.cache
+C:\Users\duyhi\Desktop\Tuần 3\MaHoaDonGian\MaHoaDonGian\obj\Debug\MaHoaDonGian.exe
+C:\Users\duyhi\Desktop\Tuần 3\MaHoaDonGian\MaHoaDonGian\obj\Debug\MaHoaDonGian.pdb

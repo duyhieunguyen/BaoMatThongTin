@@ -6,18 +6,10 @@ using System.Threading.Tasks;
 
 namespace MaHoaDonGian.GiaiThuat
 {
-    class CommonProcess
+    abstract class CommonProcess
     {
-        #region Các phương thức
-        public string EncryptionStart(string text, string key, bool IsTextBinary)
-        {
-            return "";
-        }
+        public abstract string EncryptionStart(string text, string key, bool IsTextBinary);
+        public abstract string DecryptionStart(string text, string key, bool IsTextBinary);
 
-        public string DecryptionStart(string text, string key, bool IsTextBinary)
-        {
-            return "";
-        }
-        #endregion
     }
 }

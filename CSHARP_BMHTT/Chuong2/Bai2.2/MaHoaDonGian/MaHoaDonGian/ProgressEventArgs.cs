@@ -6,34 +6,20 @@ using System.Threading.Tasks;
 
 namespace MaHoaDonGian
 {
-    class ProgressEventArgs : EventArgs
+    public class ProgressEventArgs : EventArgs
     {
-        #region Khai báo biến
-        int Increment;
-        #endregion
-
-        #region Các hàm tạo
+        public int Increment;
         public ProgressEventArgs(int Inc)
         {
             this.Increment = Inc;
         }
-        #endregion
-       
     }
-
-    class ProgressInitArgs : EventArgs
+    public class ProgressInitArgs : EventArgs
     {
-        #region Khai báo biến
-        int Maximum;
-        #endregion
-
-        #region Các hàm tạo
+        public int Maximum;
         public ProgressInitArgs(int Max)
         {
             this.Maximum = Max;
         }
-        #endregion
     }
-
-
 }
